@@ -1,6 +1,6 @@
 'use strict';
 
-process.env.NODE_ENV = 'test';
+// process.env.NODE_ENV = 'test';
 
 var express = require('express');
 var bodyParser = require('body-parser');
